@@ -12,7 +12,7 @@ and performance of systems.
 
 Skillset is inclusive of:
                   
-          AWS, ![GCP](https://user-images.githubusercontent.com/75559147/111862713-13245e80-897d-11eb-882e-71a867a3e056.png), Python, Hive, Postgresql,  BigQuery, Redshift, Git, Jira, Bitbucket, Spark, Dataiku, Control M, MySQL, Linux
+          AWS, [GCP](https://user-images.githubusercontent.com/75559147/111862713-13245e80-897d-11eb-882e-71a867a3e056.png), Python, Hive, Postgresql,  BigQuery, Redshift, Git, Jira, Bitbucket, Spark, Dataiku, Control M, MySQL, Linux
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
