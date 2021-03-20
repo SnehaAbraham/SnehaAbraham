@@ -12,11 +12,12 @@ and performance of systems.
 
 Skillset is inclusive of:
                   
-          AWS, GCP, Python, Hive, Postgresql,  BigQuery, Redshift, Git, Jira, Bitbucket, Spark, Dataiku, Control M, MySQL, Linux
+          AWS, ![GCP](https://user-images.githubusercontent.com/75559147/111862713-13245e80-897d-11eb-882e-71a867a3e056.png), Python, Hive, Postgresql,  BigQuery, Redshift, Git, Jira, Bitbucket, Spark, Dataiku, Control M, MySQL, Linux
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[LINKEDIN](https://www.linkedin.com/in/sneha-abraham-43b102115/)  [GMAIL](snehaabraham146@gmail.com) 
+[LINKEDIN](https://www.linkedin.com/in/sneha-abraham-43b102115/)  
+ [GMAIL] (snehaabraham146@gmail.com) 
 
 <!---
 SnehaAbraham/SnehaAbraham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
