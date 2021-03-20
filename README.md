@@ -16,7 +16,7 @@ Skillset is inclusive of:
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                        [LINKEDIN](https://www.linkedin.com/in/sneha-abraham-43b102115/)    [GMAIL](snehaabraham146@gmail.com)                                                                [RESEARCH PUBLICATIONS](http://www.ceser.in/ceserp/index.php/IJEFT/article/view/4568)         [HACKERRANK](https://www.hackerrank.com/Sneha1041?hr_r=1)
+  [LINKEDIN](https://www.linkedin.com/in/sneha-abraham-43b102115/)    [GMAIL](snehaabraham146@gmail.com)                                                                       [RESEARCH PUBLICATIONS](http://www.ceser.in/ceserp/index.php/IJEFT/article/view/4568)         [HACKERRANK](https://www.hackerrank.com/Sneha1041?hr_r=1)
  
 
 <!---
