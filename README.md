@@ -13,10 +13,12 @@ and performance of systems.
 Skillset is inclusive of:
                   
           AWS, GCP, Python, Hive, Postgresql,  BigQuery, Redshift, Git, Jira, Bitbucket, Spark, Dataiku, Control M, MySQL, Linux
+          
+   [LINKEDIN](https://www.linkedin.com/in/sneha-abraham-43b102115/)    [GMAIL](snehaabraham146@gmail.com)                                                                       [RESEARCH_PUBLICATIONS](http://www.ceser.in/ceserp/index.php/IJEFT/article/view/4568)         [HACKERRANK](https://www.hackerrank.com/Sneha1041?hr_r=1)
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  [LINKEDIN](https://www.linkedin.com/in/sneha-abraham-43b102115/)    [GMAIL](snehaabraham146@gmail.com)                                                                       [RESEARCH_PUBLICATIONS](http://www.ceser.in/ceserp/index.php/IJEFT/article/view/4568)         [HACKERRANK](https://www.hackerrank.com/Sneha1041?hr_r=1)
+                                    “You can have data without information, but you cannot have information without data”
+                                      “Data is a precious thing and will last longer than the systems themselves.”
  
 
 <!---
