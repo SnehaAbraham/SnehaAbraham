@@ -16,7 +16,7 @@ Skillset is inclusive of:
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[LinkedIn](https://www.linkedin.com/in/sneha-abraham-43b102115/)
+[LINKEDIN](https://www.linkedin.com/in/sneha-abraham-43b102115/)  [GMAIL](snehaabraham146@gmail.com) 
 
 <!---
 SnehaAbraham/SnehaAbraham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
